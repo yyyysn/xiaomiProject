@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* hide */
+
+
+/* ========================未完成====================================== */
+.banner-wrap{
+   height: 460px;
+   background-color: rgb(129, 17, 139);
+}
+.banner-wrap .left{
+    width: 233px;
+    height: 460px;
+    background-color: yellow;
+    float: left;
+}
+.banner-wrap #banner{
+    width: 993px;
+    height: 460px;
+    background-color: violet;
+    float: left;
+}
+/* =============================================================== */
+
+.miaosha{
+   
+   padding: 13px 0 26px 0 ;
+    height: 175px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+}
+.miaosha img{
+    float: left;
+}
+
+/* shangou =======================================未完成*/
+#shangou{
+    width: 1353px;
+    height:5000px;
+    background-color: #f5f5f5;
+}
+
+#shangou .shangou-wrap{
+    height: 406px;
+    background-color:rgb(202, 91, 110) ;
+    margin-bottom: 20px;
+    
+}
+.shangou-wrap p{
+    display: block;
+    width: 1227px;
+    height: 60px;
+    background-color: yellow;
+    font-size: 22px;
+    color: #333333;
+    line-height: 60px;
+}
+.shangou-wrap  .daojishi{
+    width: 236px;
+    height: 339px;
+    background-color: rgb(95, 81, 83);
+    float: left;
+    
+}
+.shangou-wrap  .lunbo{
+    width: 991px;
+    background-color: olive;
+    height: 339px;
+    float: left;
+}
+
+/* phone */
+.phonePic a{
+    width: 1126px;
+    height: 122px;
+    background-color: yellowgreen;
+    display: block;
+}
